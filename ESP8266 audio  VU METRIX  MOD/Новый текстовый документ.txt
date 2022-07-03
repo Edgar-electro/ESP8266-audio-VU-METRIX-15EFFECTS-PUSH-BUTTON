@@ -1,0 +1,16 @@
+
+
+bort 2.74  
+jnjel et faily windozsi mijic vor kampilacia lini esp8266 hamar
+
+api-ms-win-core-path-l1-1-0.dll
+
+
+
+led pin d3 
+
+btn pin d4
+
+
+16 laynq 11  barcr
+
